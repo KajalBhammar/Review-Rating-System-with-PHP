@@ -32,6 +32,11 @@ This PHP and JavaScript code implements a review and rating system where users c
 - Review the PHP and JavaScript code comments for better understanding of the implementation details.
 
 
+## Author
+
+This HTML code was authored by [Kajal Bhammar](https://github.com/KajalBhammar).
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
